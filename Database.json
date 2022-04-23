@@ -1,0 +1,105 @@
+{
+  "productitems": [
+
+    { "id": 1,
+      "title": "Redmi 9A Sport Coral Green. 3GB+32GB",
+      "price": 8299,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1639632985.13488695.jpg?width=200&height=200"
+    },
+    { "id": 2,
+      "title": "Redmi 9i Sport Coral Green. 4GB+64GB",
+      "price": 8799,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1640444703.73291912.jpg?width=200&height=200"
+    },
+    { "id": 3,
+      "title": "Redmi 9A Sport Coral Green. 2GB+32GB",
+      "price": 6999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1639632979.96659634.jpg?width=200&height=200"
+    },
+    { "id": 4,
+      "title": "Redmi 9A Sport Metallic Blue. 3GB+32GB",
+      "price": 8299,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1639632974.23513927.jpg?width=200&height=200"
+    },
+    { "id": 5,
+      "title": "Redmi 9A Sport Metallic Blue. 2GB+32GB",
+      "price": 6999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1639632969.45270.jpg?width=200&height=200"
+    },
+    { "id": 6,
+      "title": "Redmi 9A Sport Carbon Black. 3GB+32GB",
+      "price": 8299,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1639632956.15921364.jpg?width=200&height=200"
+    },
+    { "id": 7,
+      "title": "Redmi 9i Sport Metallic Blue. 4GB+64GB",
+      "price": 8799,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1640444674.83423174.jpg?width=200&height=200"
+    },
+    { "id": 8,
+      "title": "Redmi 9A Sport Carbon Black. 2GB+32GB",
+      "price": 6999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1639632949.33915653.jpg?width=200&height=200"
+    },
+    { "id": 9,
+      "title": "Redmi 9A Sport Coral Green 3GB+32GB",
+      "price": 8299,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632717163.40824360.jpg?width=200&height=200"
+    },
+    { "id": 10,
+      "title": "Redmi Note 10S Cosmic Purple 8GB+128GB",
+      "price": 16499,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1638353961.48768836.jpg?width=200&height=200"
+    },
+    { "id": 11,
+      "title": "Redmi 9 Activ Coral Green 6GB+128GB",
+      "price": 11499,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632455266.1579315.jpg?width=200&height=200"
+    },
+    { "id": 12,
+      "title": "Redmi Note 10 Lite Glacier White 4GB+64GB",
+      "price": 13999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632992436.181757.jpg?width=200&height=200"
+    },
+    { "id": 13,
+      "title": "Redmi Note 10 Lite Glacier White 6GB+128GB",
+      "price": 16999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632992446.88448211.jpg?width=200&height=200"
+    },
+    { "id": 14,
+      "title": "Redmi 9i Sport Coral Green 4GB+64GB",
+      "price": 8799,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632716975.98795115.jpg?width=200&height=200"
+    },
+    { "id": 15,
+      "title": "Redmi 9A Sport Coral Green 2GB+32GB",
+      "price": 6999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632717155.68085426.jpg?width=200&height=200"
+    },
+    { "id": 16,
+      "title": "Redmi 9 Activ Coral Green 4GB+64GB",
+      "price": 9499,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632455244.81688512.jpg?width=200&height=200"
+    },
+    { "id": 17,
+      "title": "Redmi Note 10S Cosmic Purple 6GB+128GB",
+      "price": 14999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1629200501.79128393.jpg?width=200&height=200"
+    },
+    { "id": 18,
+      "title": "Redmi Note 10 Pro Dark Nebula 6GB+128GB",
+      "price": 17999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1630388829.1874910.jpg?width=200&height=200"
+    },
+    { "id": 19,
+      "title": "Redmi Note 10T 5G Chromium White 6GB+128GB",
+      "price": 14999,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1628682699.54828529.png?width=200&height=200"
+    },
+    { "id": 20,
+      "title": "Redmi 9 Activ Metallic Purple 6GB+128GB",
+      "price": 11499,
+      "image":"http://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1632455260.69857469.jpg?width=200&height=200"
+    }
+  ]
+}
